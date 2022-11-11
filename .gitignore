@@ -1,0 +1,9 @@
+Library/
+Logs/
+obj/
+ProjectSettings/
+UserSettings/
+.vs/
+Packages/
+.vsconfig
+Assembly-Csharp.csproj
